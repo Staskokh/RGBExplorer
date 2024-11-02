@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">RGBExplorer</string>
+    <string name="confirm">select</string>
+    <string name="cancel">cancel</string>
+    <string name="options">Options</string>
+</resources>
